@@ -219,6 +219,20 @@ body {
     background: #e11d48; /* red */
 }
 
+.leadership-card:nth-child(1):hover{
+    border: #16a34a;
+}
+
+.leadership-card:nth-child(2):hover{
+    border: #d4ce17;
+}
+
+.leadership-card:nth-child(3):hover{
+    border: #e11d48;
+}
+
+
+
 
 .calender{
     display: flex;
